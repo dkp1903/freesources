@@ -11,7 +11,7 @@ is actually fun to read, and more. The focus will be on lesser known resources m
 
 I haven't really thought about the structure that I'd be giving to this, so I am going to restrict it to just being separate .md files, but I plan to refactor it later.
 
-I'd love to have new contributions - the terms : it should be free/have a free section ALONGSIDE a paid section, it should NOT be pirated(aka, hacked, torrent versions of courses that were originally paid are a no, here) - create PRs with the name and link to the resource with a brief description. [Reference](../Courses.md)
+I'd love to have new contributions - the terms : it should be free/have a free section ALONGSIDE a paid section, it should NOT be pirated(aka, hacked, torrent versions of courses that were originally paid are a no, here) - create PRs with the name and link to the resource with a brief description. Here is a [Reference](https://github.com/dkp1903/freesources/blob/main/Courses.md)
 
 Let's make Software Development Education more inclusive 
   
