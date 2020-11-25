@@ -7,14 +7,14 @@ Not to say paid content isn't good - it's great. It saves time, you get some ext
 there are always gonna be free alternatives.
 
 That's the reason with which I am starting this repository. It'll include FREE content, from places that you might not have known exists - Blogs, YouTube channels, documentation that 
-is actually fun to read, and what not.
+is actually fun to read, and more. The focus will be on lesser known resources more - almost everyone knows sources like [GeeksforGeeks](https://geeksforgeeks.org), but not many know of resources like [Educative](https://educative.io) or [Frontend Masters](https://frontendmasters.com)
 
 I haven't really thought about the structure that I'd be giving to this, so I am going to restrict it to just being separate .md files, but I plan to refactor it later.
 
 I'd love to have new contributions - the terms, it should be free, it should NOT be pirated(aka, hacked, torrent versions of courses that were originally paid are a no, here)
 - create PRs with the name, type and link to the resource that you mention.
 
-Let's make Software Education more inclusive 
-
-- [DKP](https://dkp.today)
-- dushyantpathak6789@gmail.com
+Let's make Software Development Education more inclusive 
+  
+      - [DKP](https://dkp.today)
+      - dushyantpathak6789@gmail.com
