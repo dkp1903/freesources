@@ -15,5 +15,5 @@ I'd love to have new contributions - the terms : it should be free/have a free s
 
 Let's make Software Development Education more inclusive 
   
-      - [DKP](https://dkp.today)
-      - dushyantpathak6789@gmail.com
+   [DKP](https://dkp.today)
+   dushyantpathak6789@gmail.com
