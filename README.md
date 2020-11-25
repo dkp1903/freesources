@@ -1,4 +1,7 @@
-The internet is free - if you know where to look. And this applies to learning software development, too.
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dkp1903/freesources/CI?style=plastic)
+
+## The internet is free - 
+if you know where to look. And this applies to learning software development, too.
 
 There are tons of resources which are FOR FREE, but they happen to miss out the SEO wagon race and are usually outta the public's eye. The result? Many of us do end up shelling out
 precious bucks for courses, which you might've got for free.
