@@ -5,3 +5,5 @@ Wes Bos free courses
 - [Command Line Power User](https://commandlinepoweruser.com) - As web developers, we use the command line a lot. A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
 - [Learn Redux](https://learnredux.com) - A 20 video / 2.5 hour course to learn how to use Redux, React Router and React together.
 - [Mastering Markdown](https://masteringmarkdown.com) - A quick 34 minute mini course for anyone who is looking to learn markdown for the first time, or fill in any gaps along the way. Markdown is a very simple language and can be easily mastered in under an hour.
+
+[Level up Tutorials free courses](https://leveluptutorials.com/tutorials) - Go to the website and scroll down - the courses without the 'Pro' badge are the free ones. The site doesn't have a filter for free/premium courses, so you're gonna have to do it manually. Courses include some on PHP stack like Magento, Web Design stuff like Sketch, HTML, CSS and some JS like Meteor
