@@ -1,0 +1,20 @@
+The internet is free - if you know where to look. And this applies to learning software development, too.
+
+There are tons of resources which are FOR FREE, but they happen to miss out the SEO wagon race and are usually outta the public's eye. The result? Many of us do end up shelling out
+precious bucks for courses, which you might've got for free.
+
+Not to say paid content isn't good - it's great. It saves time, you get some extra tidbits and you get a much better service. But paying for content shouldn't be a compulsion, because
+there are always gonna be free alternatives.
+
+That's the reason with which I am starting this repository. It'll include FREE content, from places that you might not have known exists - Blogs, YouTube channels, documentation that 
+is actually fun to read, and what not.
+
+I haven't really thought about the structure that I'd be giving to this, so I am going to restrict it to just being separate .md files, but I plan to refactor it later.
+
+I'd love to have new contributions - the terms, it should be free, it should NOT be pirated(aka, hacked, torrent versions of courses that were originally paid are a no, here)
+- create PRs with the name, type and link to the resource that you mention.
+
+Let's make Software Education more inclusive 
+
+- [DKP](https://dkp.today)
+- dushyantpathak6789@gmail.com
