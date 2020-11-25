@@ -7,3 +7,8 @@ Wes Bos free courses
 - [Mastering Markdown](https://masteringmarkdown.com) - A quick 34 minute mini course for anyone who is looking to learn markdown for the first time, or fill in any gaps along the way. Markdown is a very simple language and can be easily mastered in under an hour.
 
 [Wes Bos Blog](https://wesbos.com/blog) - Explainers and crash courses on developer-ism, Javascript and stuff
+
+YouTube Channels
+
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Tutorials, full projects, crash courses on JavaScript and other Full Stack Web Technologies as well as general non-tech videos
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) - Projects, videos on important full stack dev topics
