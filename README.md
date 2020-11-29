@@ -13,7 +13,7 @@ That's the reason with which I am starting this repository. It'll include FREE c
 
 I'd love to have new contributions - the terms : it should be free/have a free section ALONGSIDE a paid section, it should NOT be pirated(aka, hacked, torrent versions of courses that were originally paid are a no, here) - create PRs with the name and link to the resource with a brief description. Here is a [Reference](https://github.com/dkp1903/freesources/blob/main/Courses.md)
 
-[Courses](https://github.com/dkp1903/freesources/blob/main/Courses.md) | [YouTube Channels](../YouTube) | [Blogs](../Blogs.md)
+[Courses](https://dkp1903.github.io/freesources/Courses) | [YouTube Channels](https://dkp1903.github.io/freesources/YouTube) | [Blogs](https://dkp1903.github.io/freesources/Blogs)
 
 Let's make Software Development Education more inclusive 
   
