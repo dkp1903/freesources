@@ -10,7 +10,7 @@ Not to say paid content isn't good - it's great. It saves time, you get some ext
 there are always gonna be free alternatives.
 
 That's the reason with which I am starting this repository. It'll include FREE content, from places that you might not have known exists - Blogs, YouTube channels, documentation that 
-is actually fun to read, and more. The focus will be on lesser known resources more - almost everyone knows sources like [GeeksforGeeks](https://geeksforgeeks.org), but not many know of resources like [Educative](https://educative.io) or [Frontend Masters](https://frontendmasters.com)
+is actually fun to read, and more. The focus will be on lesser known resources more - almost everyone knows sources like [GeeksforGeeks](https://geeksforgeeks.org), but not many know of resources like [Educative](https://www.educative.io/unlimited?aff=xk40) or [Frontend Masters](https://frontendmasters.com)
 
 I haven't really thought about the structure that I'd be giving to this, so I am going to restrict it to just being separate .md files, but I plan to refactor it later.
 
