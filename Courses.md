@@ -1,3 +1,4 @@
+- [Educative](https://www.educative.io/unlimited?aff=xk40) - Text based courses on all topics - Software/ML/Coding interviews - Students can avail the [GitHub Student Developer Pack](https://github.com/dkp1903/freesources/blob/main/GitHubStudentDevPack.md) benefit to get free access to some courses. For non students, or full access, visit [here](https://www.educative.io/unlimited?aff=xk40) for a discount
 - Wes Bos free courses
   - [JavaScript 30](https://javaScript30.com) - A free 30 day vanilla js coding challenge. Learn to build 30 things in 30 days with 30 tutorials. No Frameworks, No Compilers, No Libraries, No Boilerplate.
   - [CSS Grid](https://cssgrid.io) - A free 25 video course on all there is to learn about CSS Grid! We start with CSS Grid fundamentals and end with some real-world examples.
